@@ -3,7 +3,7 @@ package aima.core.agent;
 import java.util.Optional;
 
 /**
- * Artificial Intelligence A Modern Approach (3rd Edition): Figure 2.1, page 35.<br>
+ * Artificial Intelligence A Modern Approach (3rd Edition): Figure 2.1, page 37.<br>
  * 
  * Figure 2.1 Agents interact with environments through sensors and actuators.
  *
